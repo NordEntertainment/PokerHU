@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F4C05AC2-AF29-F2C7-9F44-C56C58AE3F74}") = "HUvirtualChips", "Assembly-CSharp.csproj", "{F9AC7558-300F-5FD5-891F-298FCC3C0373}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9AC7558-300F-5FD5-891F-298FCC3C0373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9AC7558-300F-5FD5-891F-298FCC3C0373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9AC7558-300F-5FD5-891F-298FCC3C0373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9AC7558-300F-5FD5-891F-298FCC3C0373}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
